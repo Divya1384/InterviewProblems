@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArrays", "MergeSortedArrays\MergeSortedArrays.csproj", "{11DA3E34-E99C-49BB-9AE6-AEDFBD3D82E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11DA3E34-E99C-49BB-9AE6-AEDFBD3D82E2}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{11DA3E34-E99C-49BB-9AE6-AEDFBD3D82E2}.Debug|x64.ActiveCfg = Debug|x64
+		{11DA3E34-E99C-49BB-9AE6-AEDFBD3D82E2}.Debug|x64.Build.0 = Debug|x64
+		{11DA3E34-E99C-49BB-9AE6-AEDFBD3D82E2}.Release|Any CPU.ActiveCfg = Release|x64
+		{11DA3E34-E99C-49BB-9AE6-AEDFBD3D82E2}.Release|x64.ActiveCfg = Release|x64
+		{11DA3E34-E99C-49BB-9AE6-AEDFBD3D82E2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {642AE1D7-1F9A-4BE2-92D8-1DCB524DF2BA}
+	EndGlobalSection
+EndGlobal
